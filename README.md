@@ -1,3 +1,3 @@
 # Demo
 this is my first git repository
-author - zeel shah
+author - zeel kartik shah 
